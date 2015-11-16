@@ -5,5 +5,5 @@ print "All work and no play makes jack a dull boy."
 end
 
 =begin
- this is not film accurate, I don't know how to generate text with randomized typos yet?
+ this is not film accurate, I don't know how to generate text with randomized typos yet
  =end
